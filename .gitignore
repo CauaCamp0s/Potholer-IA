@@ -1,0 +1,6 @@
+# Ignore all files in the following directories
+.env/
+.fotos/
+.videos/
+.frames/
+
